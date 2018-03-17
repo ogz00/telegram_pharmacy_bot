@@ -33,3 +33,4 @@ Acceptable Commands are :
 ** /pharmacy
 ** /eczane
 ** /pharmacy Austin,Texas
+** /eczane Ankara,Turkey
