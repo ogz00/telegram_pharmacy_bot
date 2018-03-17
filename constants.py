@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 GOOGLE_PLACES_API = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location={0}&radius=6000&type=pharmacy&keyword={1}&key={2}"
 GOOGLE_PLACES_API_ID = "https://maps.googleapis.com/maps/api/place/details/json?placeid={0}&key={1}"
 

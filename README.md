@@ -10,11 +10,18 @@ _TELEGRAM_BOT_STAGING_TOKEN = ""
 
 _GOOGLE_API_KEY = ""
 
+create a virtual-env for project:
+**mkdir venv**
+
+select this folder as a Project Interpreter
+
 install requirements:
 **pip install -r requirements.text**
 
-then start with command:
+activate it:
+**source venv/bin/activate**
 
+then start with command:
 **python -m pharmacy_bot_staging.py**
 
 This Telegram Python Bot uses Google's **Maps Geocoding API** and **Places API Web Service** with **Python-Telegram-Bot** SDK.
