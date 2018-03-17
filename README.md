@@ -10,7 +10,12 @@ _TELEGRAM_BOT_STAGING_TOKEN = ""
 
 _GOOGLE_API_KEY = ""
 
-then type **python -m pharmacy_bot_staging.py**
+install requirements:
+**pip install -r requirements.text**
+
+then start with command:
+
+**python -m pharmacy_bot_staging.py**
 
 This Telegram Python Bot uses Google's **Maps Geocoding API** and **Places API Web Service** with **Python-Telegram-Bot** SDK.
 
