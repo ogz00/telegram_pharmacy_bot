@@ -27,3 +27,10 @@ then start with command:
 This Telegram Python Bot uses Google's **Maps Geocoding API** and **Places API Web Service** with **Python-Telegram-Bot** SDK.
 
 This bot uses **TimedRotatingFileHandler** for logging user behaviour and information.
+
+Acceptable Commands are :
+
+**/pharmacy**
+**/eczane**
+**/pharmacy Austin,Texas**
+**/eczane Ankara,Turkey**
