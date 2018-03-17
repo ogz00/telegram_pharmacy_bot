@@ -154,4 +154,5 @@ def calculate_distance_between_locations(loc1, loc2):
 
 
 def find_lang(text):
-    return COMMANDS[text]
+
+    return COMMANDS[text.split(" ")[0]]
