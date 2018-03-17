@@ -30,7 +30,7 @@ This bot uses **TimedRotatingFileHandler** for logging user behaviour and inform
 
 Acceptable Commands are :
 
-** /pharmacy
-** /eczane
-** /pharmacy Austin,Texas
-** /eczane Ankara,Turkey
+** /pharmacy **
+** /eczane **
+** /pharmacy Austin,Texas **
+** /eczane Ankara,Turkey **
