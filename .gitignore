@@ -3,3 +3,4 @@ venv/*
 pharmacy_bot.log*
 .DS_STORE
 .idea/*
+*.pyc
